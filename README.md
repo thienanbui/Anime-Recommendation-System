@@ -23,7 +23,10 @@ Users often struggle to discover animes aligned with their tastes and interests,
 
 ## Data Overview
 Our primary data source contains user profiles and the animes they have added to their "Favorites" list. 
+
+See below for visualizations used to draw initial insights about our user profile population.
 ![Exploratory Data Analysis Visuals](/Snapshots/EDA.PNG "")
 - The vast majority of user profiles are young adults between the age of 20-40 and are predominantly male.
 - Profiles typically have 5 favorited animes, on average.
 - There are a wide range of anime genres available in the dataset, with comedy and shounen (young male) leading the charts.
+
