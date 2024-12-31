@@ -7,6 +7,8 @@
 This project aims to create a seamless and improved user experience by enhancing the quality of recommendations provided to the consumer, thus increasing their engagement with the service and promoting customer retention rates. 
 While able to be applied to other genres and broader applications of media recommendation usages, the data used focuses on consumers who watch anime, a style of Japanese film and television animation gaining increased popularity in the USA.
 
+For a detailed presentation of methodology and results, see [here](/Presentation/Anime_Recommender_PPT).
+
 ## Background
 Streaming platforms have become increasingly competitive and commonplace in today’s entertainment industry. 
 Companies like Netflix and Crunchyroll both provide anime selections for users to stream and have sought ways to differentiate themselves to retain and grow their customer basis.
@@ -20,7 +22,7 @@ Users often struggle to discover animes aligned with their tastes and interests,
 - A combination of user-item collaborative filtering will be more effective than using item-item or user-user filtering alone.
 
 ## Data Overview
-Our primary data source contains information on user profiles and what animes they have added to their "Favorites" list. 
+Our primary data source contains user profiles and the animes they have added to their "Favorites" list. 
 ![Exploratory Data Analysis Visuals](/Snapshots/EDA.PNG "")
 - The vast majority of user profiles are young adults between the age of 20-40 and are predominantly male.
 - Profiles typically have 5 favorited animes, on average.
