@@ -7,7 +7,7 @@
 This project aims to create a seamless and improved user experience by enhancing the quality of recommendations provided to the consumer, thus increasing their engagement with the service and promoting customer retention rates. 
 While able to be applied to other genres and broader applications of media recommendation usages, the data used focuses on consumers who watch anime, a style of Japanese film and television animation gaining increased popularity in the USA.
 
-For a detailed presentation of methodology and results, see [here](/Presentation/Anime_Recommender_PPT).
+For a detailed presentation of methodology and results, see [here](/Presentation/Anime_Recommender_PPT.pptx).
 
 ## Background
 Streaming platforms have become increasingly competitive and commonplace in today’s entertainment industry. 
