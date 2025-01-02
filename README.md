@@ -40,7 +40,7 @@ We calculated the cosine similarity between the target user and all other users 
 ##### Note: Animes already watched by the target user are excluded from the recommendation list to. ensure that we are not recommending shows that the user has already seen.
 
 ## Results
-Overall, our model does well in providing similar recommendations to the user based on what they have favorited. It detects key thematic elements present in the target user's favorited shows and applies them to the recommendations provided, striking a balance between greatly similar shows in the same genre while including shows in adjacent categories that similar users enjoyed.
+Overall, our model does well in providing similar recommendations to the user based on what they have favorited. It detects key thematic elements present in the target user's favorited shows and applies them to the recommendations provided, striking a balance between greatly similar shows in the same genre while including nuanced shows in adjacent categories that similar users had enjoyed.
 
 ## Broader Applications
 This work focused on anime users and shows. The foundations for this recommendation system can be extended to any consumer service seeking to enhance the quality of their consumer's experience and retention rate, from streaming services to online grocery shopping.
