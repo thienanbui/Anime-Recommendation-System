@@ -37,7 +37,7 @@ See below for visualizations used to draw initial insights about our user profil
 ## Methodology
 We calculated the cosine similarity between the target user and all other users in the dataset, considering their anime-watching history based on their favorited animes. This similarity score quantified the likeness between users based on their anime preferences, and allowed us to identify users that were most similar to each other. Recommendation scores were calculated for each user-anime pair.
 
-##### Note: Animes already watched by the target user are excluded from the recommendation list to. ensure that we are not recommending shows that the user has already seen.
+##### Note: Animes already watched by the target user are excluded from the recommendation list to ensure that we are not recommending shows that the user has already seen.
 
 ## Results
 Overall, our model does well in providing similar recommendations to the user based on what they have favorited. It detects key thematic elements present in the target user's favorited shows and applies them to the recommendations provided, striking a balance between greatly similar shows in the same genre while including nuanced shows in adjacent categories that similar users had enjoyed.
